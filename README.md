@@ -49,10 +49,10 @@ pkg update && pkg upgrade -y
 pkg install git -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/A-Brute
+git clone https://github.com/aviyt31622/A-BRUTE.git
 ```
 ```bash
-cd A-Brute
+cd A-BRUTE
 ```
 ```bash
 bash setup
@@ -76,10 +76,10 @@ sudo apt-get update && pkg upgrade -y
 sudo apt-get install git -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/A-Brute
+git clone https://github.com/aviyt31622/A-BRUTE.git
 ```
 ```bash
-cd A-Brute
+cd A-BRUTE
 ```
 ```bash
 bash setup
